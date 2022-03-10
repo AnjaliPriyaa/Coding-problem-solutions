@@ -1,4 +1,5 @@
 # Solutions for various Leetcode Questions;
 
 > ## EASY
->>  TWO SUM(Day-1)
+>>  Two Sum
+>>  >>Running Sum of 1d Array
