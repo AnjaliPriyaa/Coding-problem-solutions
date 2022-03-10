@@ -2,4 +2,4 @@
 
 > ## EASY
 >>  Two Sum
->>  >>Running Sum of 1d Array
+>>  Running Sum of 1d Array
