@@ -1,18 +1,14 @@
-<h2>
+<h1>
 
 ```diff
 
-Solutions for various Leetcode Questions
+- Solutions for various Leetcode Questions
 
 ```
 
-</h2>
+</h1>
 
-
-
-```diff
-## -! Easy !-
-```
+## Easy
 >>  Two Sum \
 >>  Running Sum of 1d Array \
 >>  Best Time to Buy and Sell Stock \
