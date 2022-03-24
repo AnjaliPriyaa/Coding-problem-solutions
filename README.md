@@ -1,14 +1,13 @@
 <h2>
 
 ```diff
-- red
-+ green
-! orange
-# gray
+
++ Solutions for various Leetcode Questions
+
 ```
 
 </h2>
--! Solutions for various Leetcode Questions !-
+
 
 
 > ## EASY
