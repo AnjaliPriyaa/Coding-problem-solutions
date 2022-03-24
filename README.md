@@ -2,7 +2,7 @@
 
 ```diff
 
-- Solutions for various Leetcode Questions
+ Solutions for various Leetcode Questions
 
 ```
 
