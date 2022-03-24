@@ -2,7 +2,7 @@
 
 ```diff
 
-+ Solutions for various Leetcode Questions
+<b>Solutions for various Leetcode Questions
 
 ```
 
@@ -10,7 +10,9 @@
 
 
 
-> ## EASY
+```diff
+-! Easy !-
+```
 >>  Two Sum \
 >>  Running Sum of 1d Array \
 >>  Best Time to Buy and Sell Stock \
