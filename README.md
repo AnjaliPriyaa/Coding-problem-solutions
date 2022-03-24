@@ -1,5 +1,6 @@
- ![#1589F0](# Solutions for various Leetcode Questions) `#1589F0`
-
+'''diff
+ + Solutions for various Leetcode Questions
+ '''
 > ## EASY
 >>  Two Sum \
 >>  Running Sum of 1d Array \
