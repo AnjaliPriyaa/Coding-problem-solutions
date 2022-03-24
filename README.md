@@ -1,4 +1,4 @@
-# Solutions for various Leetcode Questions- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
+ ![#1589F0](# Solutions for various Leetcode Questions) `#1589F0`
 
 > ## EASY
 >>  Two Sum \
