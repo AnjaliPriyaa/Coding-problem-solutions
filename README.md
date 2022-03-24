@@ -7,7 +7,7 @@
 >>  Concatenation of Array
 >>  Final Value of Variable After Performing Operations \
 
-# https://seanprashad.com/leetcode-patterns/(Following :-) )
+# https://seanprashad.com/leetcode-patterns/
 >>  Contains Duplicate \
 >>   Missing Number
 
