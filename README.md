@@ -2,7 +2,7 @@
 
 ```diff
 
-<b>Solutions for various Leetcode Questions
+Solutions for various Leetcode Questions
 
 ```
 
@@ -11,7 +11,7 @@
 
 
 ```diff
--! Easy !-
+## -! Easy !-
 ```
 >>  Two Sum \
 >>  Running Sum of 1d Array \
