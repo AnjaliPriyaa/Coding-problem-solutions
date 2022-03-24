@@ -34,6 +34,13 @@ Follow up: Could you implement a solution using only O(1) extra space complexity
 
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
+      #Brute Force  
         for i in range(len(nums)+1):
             if i not in nums:
                 return i
+        
+        #Optimized Code
+         sum1=sum(range(len(nums)+1))
+         sum2=sum(nums)
+         return sum1-sum2
+
