@@ -1,6 +1,16 @@
+<h2>
+
 ```diff
-<span style=“color:green;”>  Solutions for various Leetcode Questions</span>
+- red
++ green
+! orange
+# gray
 ```
+
+</h2>
+-! Solutions for various Leetcode Questions !-
+
+
 > ## EASY
 >>  Two Sum \
 >>  Running Sum of 1d Array \
