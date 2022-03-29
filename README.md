@@ -17,5 +17,6 @@
 
 # https://seanprashad.com/leetcode-patterns/
 >>  Contains Duplicate \
->>   Missing Number
-
+>>  Missing Number    \
+>>  Find All Numbers Disappeared in an Array \
+>>  Single Number
